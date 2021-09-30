@@ -1,0 +1,8 @@
+let sandwiches = `{
+    "sandwich": "hamburger","calories": "260"
+    }`;
+
+let fries = `{
+    "fries_size": "Large French Fries", 
+    "calories": "750"
+}`;

@@ -1,0 +1,71 @@
+let employ = `[{
+    "ID": "0001",
+    "fname": "Link",
+    "lname": "of Hyrule",
+    "email": "chosenone@hyrulecastle.hy",
+    "jobtitle": "Hero (TM)",
+    "salary": 0
+}, {
+    "ID": "0002",
+    "fname": "Zelda",
+    "lname": "of Hyrule",
+    "email": "princess@hyrulecastle.hy",
+    "jobtitle": "Princess",
+    "salary": 50000000
+}, {
+    "ID": "0003",
+    "fname": "Daruk",
+    "lname": "of Eldin",
+    "email": "rocksmasher@deathmountain.hy",
+    "jobtitle": "Goron Chief",
+    "salary": 30000000
+},{
+    "ID": "0004",
+    "fname": "Riju",
+    "lname": "of Gerudo Valley",
+    "email": "sandsurfqueenpatricia@gerudocity.hy",
+    "jobtitle": "Gerudo Chief",
+    "salary": 30000000
+},{
+    "ID": "0005",
+    "fname": "Urbosa",
+    "lname": "of Gerudo Valley",
+    "email": "warriorqueen@gerudocity.hy",
+    "jobtitle": "Gerudo Chief",
+    "salary": 60000000
+},{
+    "ID": "0006",
+    "fname": "Tera",
+    "lname": "of the Desert",
+    "email": "fairygodmother@gerudocity.hy",
+    "jobtitle": "Great Fairy",
+    "salary": 100000000
+},{
+    "ID": "0007",
+    "fname": "Sidon",
+    "lname": "of the Zora",
+    "email": "lynelslayer@zorasdomain.hy",
+    "jobtitle": "Prince",
+    "salary": 25000000
+},{
+    "ID": "0008",
+    "fname": "Revali",
+    "lname": "of the Rito",
+    "email": "stormrider@ritovillage.hy",
+    "jobtitle": "Warrior",
+    "salary": 45000000
+},{
+    "ID": "0009",
+    "fname": "Makar",
+    "lname": "Korok",
+    "email": "makar@greatforest.hy",
+    "jobtitle": "Forest Spirit",
+    "salary": 1
+},{
+    "ID": "0010",
+    "fname": "Terrako",
+    "lname": "the Tiny",
+    "email": "tinyguardian@hyrulecastle.hy",
+    "jobtitle": "Guardian",
+    "salary": 15000000
+}]`

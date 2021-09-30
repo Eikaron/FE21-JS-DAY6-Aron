@@ -1,0 +1,16 @@
+var animals = `[{
+    "fname": "Jane",
+    "lname": "Doe",
+    "img":"https://cdn.pixabay.com/photo/2021/05/02/08/33/jellyfish-6222849_960_720.jpg",
+    "jellyfish": true
+},{
+    "fname": "Aron",
+    "lname": "Nolastname",
+    "img": "https://cdn.pixabay.com/photo/2021/03/05/21/43/lizard-6072391_960_720.jpg",
+    "jellyfish": false
+},{
+    "fname": "Anthony",
+    "lname": "Crowley",
+    "img": "https://cdn.pixabay.com/photo/2014/11/21/15/25/chameleon-540655_960_720.jpg",
+    "jellyfish": false
+}]`
