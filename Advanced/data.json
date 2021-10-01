@@ -1,0 +1,31 @@
+let booklist = `[{
+    "title": "Javascript for Dummies",
+    "author": "Emily A. VanderVeer",
+    "read": false,
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/51IWL7y8ecL._SX397_BO1,204,203,200_.jpg"
+    },{
+    "title": "How to stop Procrastinating and get stuff done",
+    "author": "N. O'Treal",
+    "read": true,
+    "cover": "https://cdn.pixabay.com/photo/2021/04/04/05/43/animal-6149183_960_720.jpg"
+},{
+    "title": "Book Title",
+    "author": "Jane Doe",
+    "read": false,
+    "cover": "https://i.pinimg.com/236x/03/28/2e/03282e3c58bd9316a912ece01bdbf40f--ebook-cover-nonfiction.jpg"
+},{
+    "title": "The Colour of Magic",
+    "author": "Terry Pratchett",
+    "read": true,
+    "cover": "https://m.media-amazon.com/images/I/51h6id98v2L.jpg"
+},{
+    "title": "Good Omens",
+    "author": "Terry Pratchett & Neil Gaiman",
+    "read": true,
+    "cover": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/5521/9780552137034.jpg"
+},{
+    "title": "Differential Equations for Dummies",
+    "author": "Steven Holzner, PhD",
+    "read": true,
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/51y0HAKObmL._SX396_BO1,204,203,200_.jpg"
+}]`
